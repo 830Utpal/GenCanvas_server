@@ -11,6 +11,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@paypal/react-paypal-js": "^8.8.2",
     "axios": "^1.8.2",
     "bcrypt": "^5.1.1",
     "cors": "^2.8.5",
@@ -20,6 +21,6 @@
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.12.1",
     "nodemon": "^3.1.9",
-    "razorpay": "^2.9.6"
+    "paypal-rest-sdk": "^1.8.1"
   }
 }
